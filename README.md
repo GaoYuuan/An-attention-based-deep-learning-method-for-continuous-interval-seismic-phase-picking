@@ -1,0 +1,1 @@
+# An-attention-based-deep-learning-method-for-continuous-interval-seismic-phase-picking
