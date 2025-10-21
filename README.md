@@ -1,6 +1,6 @@
 # An-attention-based-deep-learning-method-for-continuous-interval-seismic-phase-picking
-![image](https://github.com/GaoYuuan/An-attention-based-deep-learning-method-for-continuous-interval-seismic-phase-picking/blob/main/SRL_f1.jpg)
-The code will be updated soon.
+
+![SRL_f1](https://github.com/user-attachments/assets/38278b1f-4495-4935-afee-0b1da2e2e244)
 
 #2025/10/21
 
